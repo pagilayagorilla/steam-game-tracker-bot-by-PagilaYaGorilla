@@ -13,10 +13,10 @@ Telegram-бот на Node.js, который помогает отслежива
 - Клонируйте репозиторий или скачайте файлы бота.
 - Установите NodeJS. (https://nodejs.org/en/download)
 - Установите зависимости:
-  npm install dotenv
-  npm install node-telegram-bot-api
-  npm install axios
-  npm install node-cache
+1. npm install dotenv
+2. npm install node-telegram-bot-api
+3. npm install axios
+4. npm install node-cache
 -Настройте переменные окружения:
 1. Создайте файл .env в корневой директории проекта.
 2. Добавьте в него следующие переменные:
