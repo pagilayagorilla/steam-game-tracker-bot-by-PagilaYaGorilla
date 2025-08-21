@@ -20,8 +20,8 @@ Telegram-бот на Node.js, который помогает отслежива
 - Настройте переменные окружения:
 1. Создайте файл .env в корневой директории проекта.
 2. Добавьте в него следующие переменные:
-  TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
-  BOT_USERNAME=your_bot_username_here
+ 1) TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+ 2) BOT_USERNAME=your_bot_username_here
 - Запустите бота.
 P.S не забудьте вставить токены в .env файл.
 Стим апи можно взять тут - https://steamcommunity.com/dev/apikey
