@@ -10,8 +10,8 @@ Telegram-бот на Node.js, который помогает отслежива
 - Рекомендации: Система предлагает популярные и рекомендуемые игры.
 
 Для запуска бота требуется:
-- Клонируйте репозиторий или скачайте файлы бота.
-- Установите NodeJS. (https://nodejs.org/en/download)
+- Скопируйте код или скачайте файл бота (index.js).
+- Установите NodeJS (https://nodejs.org/en/download).
 - Установите зависимости:
 1. npm install dotenv
 2. npm install node-telegram-bot-api
